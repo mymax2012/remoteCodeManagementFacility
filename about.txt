@@ -1,0 +1,8 @@
+C++\CLI WPF Demo
+Purpose:
+Demonstrate how to build a Windows Presentation Foundation application using C++\CLI.  This package contains:
+1.	A client application class, WPFCppCliDemo, derived from System::Windows::Window.
+2.	A native C++ class, MockChannel, that simulates a socket channel used by the client to send and receive messages from one or more servers.
+
+Jim Fawcett
+Spring 2015
